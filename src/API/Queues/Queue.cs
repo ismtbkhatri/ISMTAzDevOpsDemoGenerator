@@ -8,6 +8,7 @@ namespace RestAPI.Queues
 {
     public class Queue : ApiServiceBase
     {
+    
         public Queue(IADOConfiguration configuration) : base(configuration) { }
         private ILog logger = LogManager.GetLogger("ErrorLog");
         /// <summary>
