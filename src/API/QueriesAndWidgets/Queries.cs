@@ -14,7 +14,7 @@ namespace RestAPI.QueriesAndWidgets
         private ILog logger = LogManager.GetLogger("ErrorLog");
 
         /// <summary>
-        /// Get Existing Dashboard by ID
+        /// Get Existing Dashboard by ID added
         /// </summary>
         /// <param name="projectName"></param>
         /// <returns></returns>
